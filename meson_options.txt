@@ -1,0 +1,28 @@
+option(
+  'examples',
+  type : 'boolean',
+  value : true,
+  description : 'build examples',
+)
+
+option(
+   'fuzzer',
+   type : 'boolean',
+   value : false,
+   description : 'generate fuzz seed corpus and test it with standalone fuzzer',
+)
+
+option(
+  'tests',
+  type : 'boolean',
+  value : true,
+  description : 'build tests',
+)
+
+# for debugging purposes
+option(
+  'install_examples',
+  type : 'boolean',
+  value : false,
+  description : 'install examples',
+)

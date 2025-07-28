@@ -1,5 +1,70 @@
-template-repository (1.0-1) unstable; urgency=medium
+cgif (0.5.0-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Wed, 12 Feb 2025 22:46:52 +0100
+
+cgif (0.4.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update Standards-Version to 4.7.0 .
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Wed, 19 Jun 2024 20:28:00 +0200
+
+cgif (0.4.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Use no for Rules-Requires-Root.
+  * Update Standards-Version to 4.6.2 .
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Sun, 07 Apr 2024 21:53:17 +0200
+
+cgif (0.3.2-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Install examples to -dev package.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Mon, 12 Jun 2023 06:53:41 +0200
+
+cgif (0.3.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Fri, 29 Apr 2022 17:44:45 +0200
+
+cgif (0.2.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Sun, 06 Mar 2022 14:11:21 +0100
+
+cgif (0.2.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Thu, 17 Feb 2022 17:21:17 +0100
+
+cgif (0.1.0-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Tue, 11 Jan 2022 21:48:05 +0100
+
+cgif (0.0.4-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Add watch file.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Mon, 13 Dec 2021 22:32:25 +0100
+
+cgif (0.0.3-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Thu, 09 Dec 2021 18:15:27 +0100
+
+cgif (0.0.2-1) unstable; urgency=medium
+
+  * Initial release (closes: #996250).
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Tue, 09 Nov 2021 07:52:07 +0100
